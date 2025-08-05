@@ -1,0 +1,12 @@
+a[href$=".co.jp"] {
+    color: red;
+}
+p:hover {
+    background-color: pink;
+}
+h1::after {
+    content: "!!!!";
+}
+main > h1 {
+    color: red;
+}
